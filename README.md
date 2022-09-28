@@ -1,4 +1,4 @@
-# ProjectTitanic
+# Project Titanic
 ![](https://github.com/NicolasKlaver/Project_Titanic_Survivor/blob/main/data/Titanic-barco.png)
 
 ## Introduction
