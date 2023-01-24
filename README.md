@@ -32,24 +32,29 @@ The objective of this Project is apply Machine Learning techniques to predicts w
 
 ## Data analysis 
 - First look to the data
+![](https://github.com/NicolasKlaver/Project_Titanic_Survivor/blob/main/img/analysis_sample.png)
 
 
-#### Data Types
-![]()
+- Data Types
 
-Numerical Features
+  ![](https://github.com/NicolasKlaver/Project_Titanic_Survivor/blob/main/img/types.png)
+
+**Numerical Features:**
 - Continuous: Age and Fare
 - Discrete: SibSp and Parch
 
-Categorical Features
+**Categorical Features:**
 - Survived, Sex, Embarked and Pclass
 
-Alphanumeric Features
+**Alphanumeric Features:**
 - Ticket and Cabin
 
 
-##### Describe
-![]()
+
+
+**Describe**
+![](https://github.com/NicolasKlaver/Project_Titanic_Survivor/blob/main/img/describe.png)
+
 Notes:
 - There are a total of 891 passengers in our training set.
 - The Age feature is missing approximately 19.8% of its values.
@@ -63,8 +68,9 @@ Notes:
 
 
 ## Feature Engineering and Data Visualization (Age Feature)
-![]()
+![](https://github.com/NicolasKlaver/Project_Titanic_Survivor/blob/main/img/feature.png)
 
+![](https://github.com/NicolasKlaver/Project_Titanic_Survivor/blob/main/img/age_feature.png)
 
 Notes:
 - Babies are more likely to survive than any other age group.
@@ -72,13 +78,10 @@ Notes:
 
 
 
-### Data Cleaning
+## Machine Learning
+- We will use part of our training data to test the accuracy of our different models.
+![](https://github.com/NicolasKlaver/Project_Titanic_Survivor/blob/main/img/training.png)
 
 
-
-### Machine Learning
-- Do the predictions and choose the best model
-
-
-
-
+- Let's compare the accuracies of each model
+![](https://github.com/NicolasKlaver/Project_Titanic_Survivor/blob/main/img/model_accuracy.png)
