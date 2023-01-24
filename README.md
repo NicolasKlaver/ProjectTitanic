@@ -70,7 +70,7 @@ Notes:
 ## Feature Engineering and Data Visualization (Age Feature)
 ![](https://github.com/NicolasKlaver/Project_Titanic_Survivor/blob/main/img/feature.png)
 
-![]()
+![](https://github.com/NicolasKlaver/Project_Titanic_Survivor/blob/main/img/feature_age.png)
 
 Notes:
 - Babies are more likely to survive than any other age group.
@@ -84,4 +84,8 @@ Notes:
 
 
 - Let's compare the accuracies of each model
+
 ![](https://github.com/NicolasKlaver/Project_Titanic_Survivor/blob/main/img/model_accuracy.png)
+
+#### Conclusion:
+- The best model is Random Forest with a accuracy of 85.47%
