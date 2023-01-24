@@ -70,7 +70,7 @@ Notes:
 ## Feature Engineering and Data Visualization (Age Feature)
 ![](https://github.com/NicolasKlaver/Project_Titanic_Survivor/blob/main/img/feature.png)
 
-![](https://github.com/NicolasKlaver/Project_Titanic_Survivor/blob/main/img/age_feature.png)
+![]()
 
 Notes:
 - Babies are more likely to survive than any other age group.
